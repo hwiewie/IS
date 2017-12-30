@@ -23,4 +23,12 @@ http://www.cna.com.tw/postwrite/Detail/215698.aspx#.WkNyPlWWbIV
 應該是 iot 的 malware
 http://80.211.199.204/bins/ 
 
+RAR破解
+http://www.crark.net/
+https://github.com/s3inlc/hashtopussy
+http://m.kl800.com/read/4743d1bd22cc8f99eaaa2250dc69b0fbc6b1b4a3.html#%23%23
+rarPasswordCracker
+
+華為ap
+https://www.ithome.com.tw/news/120030
 
