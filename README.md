@@ -128,6 +128,18 @@ spam Proofpoint
 微軟跟AWS的PK歐 可以參考這份
 https://drive.google.com/file/d/0B9qqqzOjzwW9SmotSm85MDhWVTQ/view
 
+https://github.com/D4Vinci/Cr3dOv3r/blob/master/README.md
+
+https://0x0.li/trackmageddon/
+
+課程
+http://opensecuritytraining.info/Training.html
+
+提供主機的完整性檢查、日誌檔監測與惡意程式 (Rootkit) 掃描的功能
+ossim
+alienvault
+
+
 
 
 
