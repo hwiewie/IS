@@ -139,6 +139,26 @@ http://opensecuritytraining.info/Training.html
 ossim
 alienvault
 
+https://www.ithome.com.tw/voice/120200
+https://medium.com/@CQD/翻譯-我是這樣拿走大家網站上的信用卡號跟密碼的-991cb6c4631e
+
+
+用簡短的話來描述這次漏洞的話，這個安全漏洞可以允許攻擊者在登入虛擬帳號 A 時，任意查看儲存在同一個物理區域的虛擬用戶 B 的所有資料，包含儲存的密碼與資料等機密資訊。
+https://buzzorange.com/techorange/2018/01/03/intel-wtf-bug-let-os-rewrite-and-down-performance/
+http://www.limitlessiq.com/news/post/view/id/3061/
+
+
+http://powerofcommunity.net/2017.htm
+https://drive.google.com/drive/folders/1zd5Pub0c_G2mhaL5jiodDjUU-gI5XChW
+
+http://arnaucode.com/blog/coffeeminer-hacking-wifi-cryptocurrency-miner.html
+
+ithome鐵人
+https://ithelp.ithome.com.tw/users/20084806/ironman/1549
+https://ithelp.ithome.com.tw/users/20107304/ironman/1258
+https://ithelp.ithome.com.tw/users/20107543/ironman/1492
+https://ithelp.ithome.com.tw/users/20107398/ironman/1517
+
 
 
 
