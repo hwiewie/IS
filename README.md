@@ -165,3 +165,10 @@ https://ithelp.ithome.com.tw/articles/10196226
 http://www.hexacorn.com/blog/2018/01/04/yet-another-way-to-hide-from-sysinternals-tools/
 
 https://github.com/MISP/misp-warninglists
+
+mitigate dns rebinding attacks against daemon
+https://github.com/transmission/transmission/pull/468
+
+https://github.com/deralexxx/security-apis/blob/master/README.md
+
+
