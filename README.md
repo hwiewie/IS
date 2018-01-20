@@ -171,4 +171,11 @@ https://github.com/transmission/transmission/pull/468
 
 https://github.com/deralexxx/security-apis/blob/master/README.md
 
+數位鑑識
+http://www.iforensics.com.tw/Products/BelkaSoft.html
+https://belkasoft.com/download/kMr3YPQkkQkRZvs6tWSNPFiqjhzJ5GnWYTGYF3Mn
+
+HITCON FreeTalk 20180119
+https://hackmd.io/EwBgRiDskJwGwFpgGZmICx0gVgTAjAGaJyEAccAhmPiHAMb71A==?view#
+
 
