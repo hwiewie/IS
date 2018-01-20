@@ -178,4 +178,11 @@ https://belkasoft.com/download/kMr3YPQkkQkRZvs6tWSNPFiqjhzJ5GnWYTGYF3Mn
 HITCON FreeTalk 20180119
 https://hackmd.io/EwBgRiDskJwGwFpgGZmICx0gVgTAjAGaJyEAccAhmPiHAMb71A==?view#
 
+Mirai攻擊介紹
+https://github.com/lejolly/mirai/blob/master/attack-instructions.md
+
+2018 hacker report
+https://ma.hacker.one/rs/168-NAU-732/images/the-2018-hacker-report.pdf
+
+
 
