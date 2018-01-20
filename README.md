@@ -202,4 +202,9 @@ https://blog.gslin.org/archives/2018/01/05/8028/meltdown-與-spectre-都有用�
 Spectre 的攻擊方式
 https://blog.gslin.org/archives/2018/01/17/8050/讀書時間%EF%BC%9Aspectre-的攻擊方式/
 
+Meltdown 的攻擊方式
+https://blog.gslin.org/archives/2018/01/07/8030/讀書時間%EF%BC%9Ameltdown-的攻擊方式/
+https://blog.gslin.org/archives/2018/01/07/8030/讀書時間%EF%BC%9Ameltdown-的攻擊方式/comment-page-1/#comment-412190
+
+
 
