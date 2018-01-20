@@ -177,6 +177,7 @@ https://belkasoft.com/download/kMr3YPQkkQkRZvs6tWSNPFiqjhzJ5GnWYTGYF3Mn
 
 HITCON FreeTalk 20180119
 https://hackmd.io/EwBgRiDskJwGwFpgGZmICx0gVgTAjAGaJyEAccAhmPiHAMb71A==?view#
+https://www.facebook.com/HITCON/videos/1732117933486188/
 
 Mirai攻擊介紹
 https://github.com/lejolly/mirai/blob/master/attack-instructions.md
@@ -184,5 +185,21 @@ https://github.com/lejolly/mirai/blob/master/attack-instructions.md
 2018 hacker report
 https://ma.hacker.one/rs/168-NAU-732/images/the-2018-hacker-report.pdf
 
+DDOS PHP script
+https://github.com/drego85/DDoS-PHP-Script
+
+Awesome Threat Detection and Hunting
+https://github.com/0x4D31/awesome-threat-detection
+
+https://attack.mitre.org/wiki/Updates_January_2018
+
+算牌
+http://teddygotmail.pixnet.net/blog/post/23263546-21點算牌教學-第1課-%28基本策略%29
+
+Meltdown 與 Spectre 都有用到的 FLUSH+RELOAD
+https://blog.gslin.org/archives/2018/01/05/8028/meltdown-與-spectre-都有用到的-flushreload/
+
+Spectre 的攻擊方式
+https://blog.gslin.org/archives/2018/01/17/8050/讀書時間%EF%BC%9Aspectre-的攻擊方式/
 
 
