@@ -206,5 +206,15 @@ Meltdown 的攻擊方式
 https://blog.gslin.org/archives/2018/01/07/8030/讀書時間%EF%BC%9Ameltdown-的攻擊方式/
 https://blog.gslin.org/archives/2018/01/07/8030/讀書時間%EF%BC%9Ameltdown-的攻擊方式/comment-page-1/#comment-412190
 
+自動撞庫
+https://github.com/D4Vinci/Cr3dOv3r
 
+https://rmusser.net/docs/AnonOpsecPrivacy.html
+Investigate Unauthorised Logon Attempts using LogonTracer 
+http://blog.jpcert.or.jp/.s/2018/01/investigate-unauthorised-logon-attempts-using-logontracer.html
+XSS語法
+https://gbhackers.com/top-500-important-xss-cheat-sheet/
 
+https://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=auto&sp=nmt4&tl=zh-TW&u=https://www.wired.com/story/worst-hacks-2017/&usg=ALkJrhjI_J5Cjho7az9m4br3AgNKSwnOZQ
+開源郵件閘道伺服器 - Proxmox Mail Gateway
+http://jasontools.blogspot.tw/2018/01/proxmox-mail-gateway.html
