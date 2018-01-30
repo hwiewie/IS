@@ -218,3 +218,19 @@ https://gbhackers.com/top-500-important-xss-cheat-sheet/
 https://translate.googleusercontent.com/translate_c?act=url&depth=1&hl=en&ie=UTF8&prev=_t&rurl=translate.google.com&sl=auto&sp=nmt4&tl=zh-TW&u=https://www.wired.com/story/worst-hacks-2017/&usg=ALkJrhjI_J5Cjho7az9m4br3AgNKSwnOZQ
 開源郵件閘道伺服器 - Proxmox Mail Gateway
 http://jasontools.blogspot.tw/2018/01/proxmox-mail-gateway.html
+
+Linux Technique Matrix
+https://attack.mitre.org/wiki/Linux_Technique_Matrix
+
+reGeorg
+https://github.com/sensepost/reGeorg
+
+米國軍事熱力圖
+https://labs.strava.com/heatmap/#12.67/121.42856/24.96043/hot/all
+
+Buscador調查操作系統 
+https://inteltechniques.com/buscador/index.html
+
+
+
+
