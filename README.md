@@ -231,6 +231,6 @@ https://labs.strava.com/heatmap/#12.67/121.42856/24.96043/hot/all
 Buscador調查操作系統 
 https://inteltechniques.com/buscador/index.html
 
-
-
+ adr 那篇 360 魯大師提到的那些 patch
+裡面有幾個字串帶有 " Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED " 
 
