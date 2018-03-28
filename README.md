@@ -234,3 +234,23 @@ https://inteltechniques.com/buscador/index.html
  adr 那篇 360 魯大師提到的那些 patch
 裡面有幾個字串帶有 " Copyright (c) 1992-2004 by P.J. Plauger, licensed by Dinkumware, Ltd. ALL RIGHTS RESERVED " 
 
+APT模擬器
+https://github.com/NextronSystems/APTSimulator
+
+SANS的教材
+https://drive.google.com/drive/folders/1Mdxipn8Yt7Wbh4xxIKY36ValvkLe04Ux
+
+https://esupport.gigabyte.com/Question/B2CQuestion
+
+webshell yara
+https://github.com/Neo23x0/signature-base/blob/master/yara/thor-webshells.yar
+
+Webshell
+https://github.com/tennc/webshell
+
+Troopers 18
+https://drive.google.com/drive/folders/1gLI58T6cyKI-LLD7iaCTTdIveKOsNJt-
+
+Black Hat Asia 2018
+https://drive.google.com/drive/folders/15ZJHqOloCnWorWuf5RXQ4VFDdIdSnLMl
+
