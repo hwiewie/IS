@@ -254,3 +254,12 @@ https://drive.google.com/drive/folders/1gLI58T6cyKI-LLD7iaCTTdIveKOsNJt-
 Black Hat Asia 2018
 https://drive.google.com/drive/folders/15ZJHqOloCnWorWuf5RXQ4VFDdIdSnLMl
 
+Python後門
+http://www.freebuf.com/sectool/165789.html
+https://github.com/Viralmaniar/Powershell-RAT
+
+RSA加密解密原理深度剖析www.freebuf.com/articles/others-articles/166049.html
+
+
+
+
