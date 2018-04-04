@@ -260,6 +260,6 @@ https://github.com/Viralmaniar/Powershell-RAT
 
 RSA加密解密原理深度剖析www.freebuf.com/articles/others-articles/166049.html
 
+密码破解全能工具：Hashcat密码破解攻略 http://www.freebuf.com/sectool/164507.html
 
-
-
+Art模式下的通用脱壳方法 http://www.freebuf.com/articles/terminal/166307.html
