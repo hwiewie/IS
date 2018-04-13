@@ -263,3 +263,46 @@ RSA加密解密原理深度剖析www.freebuf.com/articles/others-articles/166049
 密码破解全能工具：Hashcat密码破解攻略 http://www.freebuf.com/sectool/164507.html
 
 Art模式下的通用脱壳方法 http://www.freebuf.com/articles/terminal/166307.html
+
+[CVE-2017-12542简单分析及复现](http://www.freebuf.com/vuls/167124.html)
+
+[浅谈企业安全教育实践](http://www.freebuf.com/articles/neopoints/167413.html)
+
+[记一次RSA破解](http://www.freebuf.com/articles/database/167597.html)
+
+[简单远控原理实现](http://www.freebuf.com/articles/system/166876.html)
+
+[近年来APT组织使用的10大类安全漏洞](http://www.freebuf.com/articles/network/168121.html)
+
+[由Three Hit聊聊二次注入](http://www.freebuf.com/articles/web/167089.html)
+
+[反弹后门原理实现](http://www.freebuf.com/articles/web/166732.html)
+
+[使用Nmap进行大规模的分布式漏洞检测](http://www.freebuf.com/articles/network/167596.html)
+
+[最通俗易懂的PHP反序列化原理分析](http://www.freebuf.com/articles/web/167721.html)
+
+[新型渗透手法：利用XSS绕过WAF进行SQL注入](http://www.freebuf.com/articles/web/167593.html)
+
+[Loki：一款简单强大的IOC和事件响应扫描器](http://www.freebuf.com/sectool/166610.html)
+
+[Windows漏洞利用开发教程Part 1](http://www.freebuf.com/articles/system/166500.html)
+
+[一文读懂CPU漏洞“裂谷”TotalMeltdown](http://www.freebuf.com/vuls/167028.html)
+
+[Exim Off-by-One RCE漏洞](http://www.freebuf.com/vuls/166519.html)
+
+[逆向新手踩坑指南](http://www.freebuf.com/articles/network/167128.html)
+
+[正向后门原理实现](http://www.freebuf.com/articles/web/166492.html)
+
+[RPO攻击方式的探究](http://www.freebuf.com/articles/web/166731.html)
+
+[Harpoon：OSINT威胁情报工具](http://www.freebuf.com/sectool/163946.html)
+
+[浅谈企业虚拟化环境的安全风险与渗透测试方法](http://www.freebuf.com/articles/es/164792.html)
+
+
+
+
+
