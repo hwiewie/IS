@@ -307,6 +307,10 @@ Art模式下的通用脱壳方法 http://www.freebuf.com/articles/terminal/16630
 [Invoke-Adversary – Simulating Adversary Operations](https://blogs.technet.microsoft.com/motiba/2018/04/09/invoke-adversary-simulating-adversary-operations/)
 [程式碼](https://github.com/MotiBa/Invoke-Adversary)
 
+[hitbsecconf2018ams](https://conference.hitb.org/hitbsecconf2018ams/materials/)
+https://drive.google.com/drive/folders/1RIVxyHxKZwWPWUaQdYtC1gNutDQFQA8Y
+
+
 
 
 
