@@ -302,6 +302,10 @@ Art模式下的通用脱壳方法 http://www.freebuf.com/articles/terminal/16630
 
 [浅谈企业虚拟化环境的安全风险与渗透测试方法](http://www.freebuf.com/articles/es/164792.html)
 
+[RSA Conference USA 2018](https://drive.google.com/drive/folders/13K6tyISnKhO4U651EyJ-A_kQw5jxUbHp)
+
+[Invoke-Adversary – Simulating Adversary Operations](https://blogs.technet.microsoft.com/motiba/2018/04/09/invoke-adversary-simulating-adversary-operations/)
+[程式碼](https://github.com/MotiBa/Invoke-Adversary)
 
 
 
