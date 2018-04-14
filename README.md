@@ -310,7 +310,7 @@ Art模式下的通用脱壳方法 http://www.freebuf.com/articles/terminal/16630
 [hitbsecconf2018ams](https://conference.hitb.org/hitbsecconf2018ams/materials/)
 https://drive.google.com/drive/folders/1RIVxyHxKZwWPWUaQdYtC1gNutDQFQA8Y
 
-
+[Adversary emulation plan](https://attack.mitre.org/wiki/Adversary_Emulation_Plans)
 
 
 
