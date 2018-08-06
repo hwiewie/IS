@@ -314,5 +314,9 @@ https://drive.google.com/drive/folders/1RIVxyHxKZwWPWUaQdYtC1gNutDQFQA8Y
 
 [金钱难寐，大盗独行——以太坊 JSON-RPC 接口多种盗币手法大揭秘](https://paper.seebug.org/656/)
 
+[Malware analysis tools](http://malwareanalysis.tools/index.html)
+http://malwareanalysis.tools/tutorials.html
+https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A/videos
 
-
+[Sysmon](http://security-research.dyndns.org/pub/slides/FIRST-TC-2018/FIRST-TC-2018_Tom-Ueltschi_Sysmon_PUBLIC.pdf)
+[OSSEC跟SYSMON整合](https://blog.wazuh.com/using-wazuh-to-monitor-sysmon-events/)
