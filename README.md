@@ -320,3 +320,5 @@ https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A/videos
 
 [Sysmon](http://security-research.dyndns.org/pub/slides/FIRST-TC-2018/FIRST-TC-2018_Tom-Ueltschi_Sysmon_PUBLIC.pdf)
 [OSSEC跟SYSMON整合](https://blog.wazuh.com/using-wazuh-to-monitor-sysmon-events/)
+
+[BlackHat USA 2018](https://drive.google.com/drive/folders/1VU32RtQ2RD1-CmAiQS1KQUU8eAlSIlpw)
