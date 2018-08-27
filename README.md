@@ -322,3 +322,8 @@ https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A/videos
 [OSSEC跟SYSMON整合](https://blog.wazuh.com/using-wazuh-to-monitor-sysmon-events/)
 
 [BlackHat USA 2018](https://drive.google.com/drive/folders/1VU32RtQ2RD1-CmAiQS1KQUU8eAlSIlpw)
+
+https://appliedincidentresponse.com/references
+https://jpcertcc.github.io/ToolAnalysisResultSheet/
+https://github.com/api0cradle/LOLBAS
+https://github.com/cr4shcod3/pureblood
