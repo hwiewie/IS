@@ -327,3 +327,99 @@ https://appliedincidentresponse.com/references
 https://jpcertcc.github.io/ToolAnalysisResultSheet/
 https://github.com/api0cradle/LOLBAS
 https://github.com/cr4shcod3/pureblood
+
+
+SYN Flooding 連線滿溢攻擊 
+目標平台：全部
+後果：Denial of Service
+說明：SYN flooding 的方法是以發送大量要求連線的 SYN requests 到目標伺服器，而當該伺服器送回 SYN-ACK response(SYNchronize-ACKnowledge) 後，卻不發送最後的  acknowledgment 回應，讓 3-way handshaking 無法完成，由此消耗用來記錄新連
+線的緩衝區 (Buffer) 記憶空間。SYN flooding 可以超載伺服器或造成當機。
+
+
+Out of Band
+目標平台：Windows 95/ NT
+後果：Denial of Service–當機
+說明：當Windows收到設有"URGENT" flag 的封包，它會預期接下來會有資料。Out of Band攻擊的方法是在 header 設定 URGENT flag，後面的封包卻不接資料，這個矛盾會造成當機。
+
+Teardrop
+目標平台：全部
+後果：Denial of Service-當機
+說明：DOS攻擊的一種，乃是利用主機系統的TCP/IP漏洞，讓網路塞滿垃圾封包，而造成網路癱瘓。
+方法：當資料經由網路傳送，IP 封包經常會被切割成許多小片段。每個小片段和原來封包的結構大致都相同〈除某些位移資訊〉。位移資訊主要是用來正確重組 IP 封包。Teardrop  攻擊的方法為發送一對經特別設計過的封包片段到目標電腦，這一對封包片段包含了重疊的位移值，這使得這對封包重組成原來的IP 封包時，產生網路服務主機誤判封包大小現象，造成系統當機現象。
+
+
+SMB Downgrade
+目標平台：Windows NT/ 95
+後果：獲取資訊 - Passwords in Ceartext
+說明：SMB (Server Message Block) 是一種只用一個密碼來認證的檔案共享協定。它有多種不同的語言，有些用加密的密碼，而一些早期的則只用 cleartext 密碼。有 backward SMB 相容性的 NT 因要與早期的 SMB 版本溝通而使 cleartext 密碼得以處理。此漏洞可讓駭客進一步簡化 '暴力法' (brute force) 的解密碼程式。
+
+Smurf (Smurf broadcast amplifiers attacks)   倍增型攻擊
+目標平台：全部
+後果：Denial of Service-消耗頻寬
+說明：其攻擊主要是直接對網路進行廣播，造成網路很快地充滿垃圾封包而中斷。Smurf會不斷地將小量偽造的icmp要求封包送給IP廣播位址〈IP broadcast〉，然後廣播位址會傳回大量的icmp回應封包給目標電腦。這種smurf的攻擊方式除了攻擊特定目標主機，也能在網路上塞滿icmp的要求封包與回應封包，而造成網路中斷，這種方式具有放大效應，所以常被稱為smurf倍增型攻擊。
+
+
+Land 攻擊
+目標平台：全部
+後果：Denial of Service - 當機
+說明：Land 攻擊的方式是發送一假冒的 connection request (SYN) 封包到目標。此封包的來源和目的 IP 位址相同而且來源和目的通信埠也相同，使得攻擊目標誤以為是它本身送此封包給自己。 Land 攻擊可造成電腦當機。
+
+Oshare 封包
+目標平台：Windows 98
+後果： Denial of Service –當機
+說明：Oshare 封包是一特製的具破壞性封包可使 Windows 98 出現藍色當機畫面。
+
+Fragmented IGMP
+目標平台：Windows 95/ 98/98se/NT4.0 SP*
+後果：Denial of Service-當機
+說明：駭客若傳送 Fragmented IGMP (Internet Group Management Protocol) 封包到 Windows 95 或 98 電腦時，可能造成電腦操作不正常，例如效率變慢甚至當機。
+* 雖然 Windows NT 4.0 含有相同的漏洞，但它其他的系統機制使它比較難以攻擊。
+
+ICMP Router Advertisement
+目標平台：Solaris、SunOS、Windows 95/98
+後果：Denial of Service/獲取資料
+說明：經由假冒 ICMP Router Advertisement 訊息，駭客可由遠端更改預設 route 然後將網路交通流向導往他處。
+
+ICMP Timestamp
+目標平台：Windows 98
+後果：Denial of Service/當機
+說明：Windows 98 處理 ICMP timestamp request 有漏洞，會造成目標電腦不正常動作甚至當機。
+
+Source Routing
+目標平台：Windows 95/ 98/ 98se/ NT4.0/ NT4.0 SP5
+後果：略過保全 - Source Routing
+說明：Source routing 選項可讓封包本身指定到達目的的 route。如果駭客送出一個加上 source routing 資料的特製封包，駭客可略過管制，非法獲取資料。
+
+Tiny Fragments
+目標平台：全部
+後果：不詳
+說明：在網路傳輸過程當中， 因為傳輸線路架構不盡相同，在傳輸過程必須符合下一個傳送線路的最大單位(MTU)的限制， 因此有時需將封包作切割才能順利在網路上傳送訊息。而有些駭客會故意將第一個封包切的太小，小到無法完整存放 header 的資訊，造成讓
+防火牆不檢測封包就放行。
+
+NetBIOS Source Null
+目標平台：Windows 95/98
+後果：Denial of Service–當機
+說明：Windows 95/98 的 Messenger 服務有此一漏洞。駭客只需傳送一個有 NULL 來源名稱的 NetBIOS session request 封包到目標電腦即可造成當機。
+
+NetBIOS Name Conflict
+目標平台：Windows NT/ 2000
+後果：Denial of Service
+說明：Windows NT/ 2000 的 NetBIOS Name Server 協定是用來管理網路上使用者名稱。駭客可傳送假冒的 "使用者名稱相衝" ( NetBIOS Name Conflict) 的訊息，而讓該主機無法被網路上的其他電腦存取使用。
+
+Ping of Death
+目標平台：全部
+後果：Denial of Service–當機
+說明：Ping 是用來確定某個 IP 位址是否有連線的 Internet 工具。  
+"Ping of Death" 攻擊是經由發送過大的 ping request (ICMP echo request 封包) 達成。
+ Fragmentation 容許傳送這一個過大的封包，但當這個封包重新組合時即超出緩衝區 (Buffer) 限制的
+大小而造成超載。被攻擊的電腦會有不正常的動作甚至當機。此攻擊並不限於 ICMP 而是可利用所
+有 IP 上的通訊協定。
+
+
+Port Scanning 連接埠掃瞄 
+目標平台：全部
+後果：獲取存取管道
+說明：所有的PC都有65535個連接埠〈Port〉，以作為對外連接的端點。通常駭客會掃瞄欲攻擊的主機開放了哪些連接埠〈Port〉，一旦發現所開放的連接埠〈Port〉中有較易攻擊的服務，就會利用該服務的漏洞進行攻擊。因此Port Scanning是許多網路攻擊的初步手段。
+
+
+DoS 《Denial of Service》是一種讓用戶端或其他使用者無法從受害電腦上存取資料的網路攻擊形式。其方法通常是由傳送毀損的或大量的資料 requests 來中斷或超載受害電腦，而使正規的連線變慢或完全癱瘓。Denial of service 攻擊會阻礙網路服務一段時間，但不會對資料庫造成重大損害。
