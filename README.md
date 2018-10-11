@@ -424,3 +424,10 @@ Port Scanning 連接埠掃瞄
 
 
 DoS 《Denial of Service》是一種讓用戶端或其他使用者無法從受害電腦上存取資料的網路攻擊形式。其方法通常是由傳送毀損的或大量的資料 requests 來中斷或超載受害電腦，而使正規的連線變慢或完全癱瘓。Denial of service 攻擊會阻礙網路服務一段時間，但不會對資料庫造成重大損害。
+
+
+https://www.cisecurity.org/cis-benchmarks/
+https://drive.google.com/drive/folders/0B9qqqzOjzwW9UFUxY1Rlb0diS00
+https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email
+
+
