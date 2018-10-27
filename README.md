@@ -431,4 +431,8 @@ https://www.cisecurity.org/cis-benchmarks/
 https://drive.google.com/drive/folders/0B9qqqzOjzwW9UFUxY1Rlb0diS00
 https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email
 
+[4大防護面向](https://www.ithome.com.tw/news/126418)
+
+https://movaxbx.ru/2018/09/16/privilege-escalation-post-exploitation/
+
 
