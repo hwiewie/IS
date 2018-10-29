@@ -435,4 +435,3 @@ https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email
 
 https://movaxbx.ru/2018/09/16/privilege-escalation-post-exploitation/
 
-https://mega.nz/?fbclid=IwAR2V-uIB2OQsooJDbqGfrU4_RDo3l6Pi-swFiglU2R5FoFryEAb5Oz7hya0#F!ZRNzEawT!hGZwkdU_1wje79WVJ5mf9w!YVcwxY7C
