@@ -334,6 +334,8 @@ https://github.com/V33RU/IoTSecurity101
 [Ubuntu Linux中的特权提升漏洞Dirty Sock分析（含PoC）](https://www.freebuf.com/articles/system/195903.html)
 [bonesi ：在实验环境下模拟DDoS攻击流量的工具](https://www.freebuf.com/sectool/196070.html)
 [WinRAR漏洞利用升级](https://www.freebuf.com/articles/system/196834.html)
+[UEFI Firmware Parser：可解析BIOSIntel MEUEFI固件结构](https://www.freebuf.com/articles/system/196834.html)
+[VB反汇编特点汇总：秒破Crackme8-10](https://www.freebuf.com/articles/rookie/195917.html)
 
 
 SYN Flooding 連線滿溢攻擊 
