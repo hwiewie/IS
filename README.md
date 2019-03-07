@@ -336,7 +336,7 @@ https://github.com/V33RU/IoTSecurity101
 [WinRAR漏洞利用升级](https://www.freebuf.com/articles/system/196834.html)
 [UEFI Firmware Parser：可解析BIOSIntel MEUEFI固件结构](https://www.freebuf.com/articles/system/196834.html)
 [VB反汇编特点汇总：秒破Crackme8-10](https://www.freebuf.com/articles/rookie/195917.html)
-
+[Malcom：一款功能强大的图形化恶意软件通信分析工具](https://www.freebuf.com/sectool/195704.html)
 
 SYN Flooding 連線滿溢攻擊 
 目標平台：全部
