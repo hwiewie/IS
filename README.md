@@ -331,6 +331,11 @@ https://github.com/cr4shcod3/pureblood
 
 https://github.com/V33RU/IoTSecurity101
 
+[Ubuntu Linux中的特权提升漏洞Dirty Sock分析（含PoC）](https://www.freebuf.com/articles/system/195903.html)
+[bonesi ：在实验环境下模拟DDoS攻击流量的工具](https://www.freebuf.com/sectool/196070.html)
+[WinRAR漏洞利用升级](https://www.freebuf.com/articles/system/196834.html)
+
+
 SYN Flooding 連線滿溢攻擊 
 目標平台：全部
 後果：Denial of Service
