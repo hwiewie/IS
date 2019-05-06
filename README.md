@@ -10,6 +10,9 @@ https://thehackernews.com/2017/12/teamviewer-hacking-tool.html
 106 第2次政府資通安全防護巡迴研討會ー教材開放下載
 https://www.nccst.nat.gov.tw/HandoutDetail?lang=zh&seq=1271
 
+程式語言角度探討的底層安全基礎
+https://github.com/k1nm3nh4ck3r/OpenSecurityTrainingTaiwan/blob/master/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80%E8%A7%92%E5%BA%A6%E6%8E%A2%E8%A8%8E%E7%9A%84%E5%BA%95%E5%B1%A4%E5%AE%89%E5%85%A8%E5%9F%BA%E7%A4%8E_%E5%88%9D%E7%A8%BF.pptx
+
 DD作VM
 virtual forensic computing
 
