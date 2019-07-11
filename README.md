@@ -446,3 +446,9 @@ https://www.blurbiz.io/blog/the-most-complete-guide-to-finding-anyones-email
 https://movaxbx.ru/2018/09/16/privilege-escalation-post-exploitation/
 
 https://www.marcolancini.it/
+
+Sigma
+https://github.com/akky2892/Sigma-to
+https://github.com/Neo23x0/sigma
+https://tdm.socprime.com/
+
