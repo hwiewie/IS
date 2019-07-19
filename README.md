@@ -452,3 +452,5 @@ https://github.com/akky2892/Sigma-to
 https://github.com/Neo23x0/sigma
 https://tdm.socprime.com/
 
+[macOS漏洞CVE-2019-8507](https://www.freebuf.com/vuls/208148.html)
+
