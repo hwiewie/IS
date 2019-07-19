@@ -454,3 +454,8 @@ https://tdm.socprime.com/
 
 [macOS漏洞CVE-2019-8507](https://www.freebuf.com/vuls/208148.html)
 
+釣魚URL收集：
+[CertStream-Suspicious feed](https://urlscan.io/search/#certstream-suspicious)
+[OpenPhish feed](https://urlscan.io/search/#OpenPhish)
+[PhishTank feed](https://urlscan.io/search/#PhishTank)
+[Ayashige feed](https://github.com/ninoseki/ayashige)
