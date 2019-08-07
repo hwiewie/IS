@@ -462,4 +462,4 @@ https://tdm.socprime.com/
 
 [ Cross Site Scripting ( XSS ) Vulnerability Payload List ](https://github.com/ismailtasdelen/xss-payload-list)
 [XSS payload.txt](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt)
-
+https://medium.com/@man.shum546/xss-payload-2018-5271c5e3bbce
