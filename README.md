@@ -459,3 +459,7 @@ https://tdm.socprime.com/
 [OpenPhish feed](https://urlscan.io/search/#OpenPhish)
 [PhishTank feed](https://urlscan.io/search/#PhishTank)
 [Ayashige feed](https://github.com/ninoseki/ayashige)
+
+[ Cross Site Scripting ( XSS ) Vulnerability Payload List ](https://github.com/ismailtasdelen/xss-payload-list)
+[XSS payload.txt](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt)
+
