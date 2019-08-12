@@ -463,3 +463,9 @@ https://tdm.socprime.com/
 [ Cross Site Scripting ( XSS ) Vulnerability Payload List ](https://github.com/ismailtasdelen/xss-payload-list)
 [XSS payload.txt](https://github.com/pgaijin66/XSS-Payloads/blob/master/payload.txt)
 https://medium.com/@man.shum546/xss-payload-2018-5271c5e3bbce
+
+CTF
+[CTF學習規劃](https://www.itread01.com/content/1546804836.html)
+[CTF入門指南](https://www.itread01.com/content/1544694002.html)
+[CTF基礎知識](https://ithelp.ithome.com.tw/articles/10201322)
+[CTF資源](https://gotyour.pw/resources.html)
