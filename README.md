@@ -469,3 +469,6 @@ CTF
 [CTF入門指南](https://www.itread01.com/content/1544694002.html)
 [CTF基礎知識](https://ithelp.ithome.com.tw/articles/10201322)
 [CTF資源](https://gotyour.pw/resources.html)
+
+CVE-2019-0708
+[微軟RDP遠程代碼執行漏洞（CVE-2019-0708）分析集錦](https://www.freebuf.com/vuls/205380.html)
