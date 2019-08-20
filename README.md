@@ -472,3 +472,5 @@ CTF
 
 CVE-2019-0708
 [微軟RDP遠程代碼執行漏洞（CVE-2019-0708）分析集錦](https://www.freebuf.com/vuls/205380.html)
+
+[evil-winrm：Windows远程管理（WinRM）Shell终极版](https://www.freebuf.com/sectool/210479.html)
