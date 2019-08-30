@@ -189,8 +189,9 @@ https://github.com/lejolly/mirai/blob/master/attack-instructions.md
 2018 hacker report
 https://ma.hacker.one/rs/168-NAU-732/images/the-2018-hacker-report.pdf
 
-DDOS PHP script
+DDOS
 https://github.com/drego85/DDoS-PHP-Script
+https://github.com/uiucseclab/460FinalDDoSAttacks/tree/master/TCP%20PSH%2BACK%20Flood
 
 Awesome Threat Detection and Hunting
 https://github.com/0x4D31/awesome-threat-detection
