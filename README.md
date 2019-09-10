@@ -455,6 +455,11 @@ https://tdm.socprime.com/
 
 [macOS漏洞CVE-2019-8507](https://www.freebuf.com/vuls/208148.html)
 
+URL評分
+[ScamAdviser 檢測網站是否為釣魚、詐騙網站](https://www.scamadviser.com/)
+[PhishTank 反釣魚資料庫](https://www.phishtank.com/)
+[OpenPhish 人工智能來辨識釣魚網站的資料庫](https://openphish.com/)
+
 釣魚URL收集：
 [CertStream-Suspicious feed](https://urlscan.io/search/#certstream-suspicious)
 [OpenPhish feed](https://urlscan.io/search/#OpenPhish)
