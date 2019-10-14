@@ -482,3 +482,4 @@ CVE-2019-0708
 [evil-winrm：Windows远程管理（WinRM）Shell终极版](https://www.freebuf.com/sectool/210479.html)
 
 [AuthCov：一種功能強大的開源Web應用程序授權爬行和掃描工具](https://www.freebuf.com/sectool/213683.html)
+[SharPersist：一款滲透測試中實現Windows系統常駐的套件](https://www.freebuf.com/sectool/214013.html)
