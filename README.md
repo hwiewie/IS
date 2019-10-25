@@ -484,3 +484,5 @@ CVE-2019-0708
 [AuthCov：一種功能強大的開源Web應用程序授權爬行和掃描工具](https://www.freebuf.com/sectool/213683.html)
 [SharPersist：一款滲透測試中實現Windows系統常駐的套件](https://www.freebuf.com/sectool/214013.html)
 [AutoRecon：多線程網絡偵察工具](https://www.freebuf.com/sectool/213521.html)
+
+[史無前例：微軟SQL Server被黑客組織安上了後門skip-2.0](https://www.freebuf.com/news/217738.html)
