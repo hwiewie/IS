@@ -486,3 +486,4 @@ CVE-2019-0708
 [AutoRecon：多線程網絡偵察工具](https://www.freebuf.com/sectool/213521.html)
 
 [史無前例：微軟SQL Server被黑客組織安上了後門skip-2.0](https://www.freebuf.com/news/217738.html)
+[盤點近幾年勒索病毒使用的工具與漏洞](https://www.freebuf.com/articles/system/219837.html)
