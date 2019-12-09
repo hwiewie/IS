@@ -489,3 +489,5 @@ CVE-2019-0708
 [盤點近幾年勒索病毒使用的工具與漏洞](https://www.freebuf.com/articles/system/219837.html)
 [子域名枚舉](https://www.freebuf.com/articles/web/220344.html)
 [Emotet銀行木馬攻擊利用技術分析](https://www.freebuf.com/articles/system/219562.html)
+[深入淺出理解操作系統安全](https://www.freebuf.com/articles/system/220576.html)
+[安全小遊戲：尋找漏洞](https://www.freebuf.com/articles/web/221415.html)
