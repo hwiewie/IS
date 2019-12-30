@@ -497,3 +497,7 @@ CVE-2019-0708
 [XSSFORK：新一代XSS自動掃描測試工具](https://www.freebuf.com/sectool/223208.html)
 [VulnHub靶機系列：Os-ByteSec](https://www.freebuf.com/articles/system/221949.html)
 [AuthCov：一種功能強大的開源Web應用程序授權爬行和掃描工具](https://www.freebuf.com/sectool/213683.html)
+[記錄一次本人實戰blueCMS的全過程](https://www.jianshu.com/p/49949a564e73)
+[代碼審計思路討論](https://www.freebuf.com/articles/web/222877.html)
+[企業安全建設之自動化代碼掃描](https://www.freebuf.com/articles/es/221198.html)
+[Docker容器安全性分析](https://www.freebuf.com/articles/system/221319.html)
