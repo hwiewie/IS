@@ -491,3 +491,5 @@ CVE-2019-0708
 [Emotet銀行木馬攻擊利用技術分析](https://www.freebuf.com/articles/system/219562.html)
 [深入淺出理解操作系統安全](https://www.freebuf.com/articles/system/220576.html)
 [安全小遊戲：尋找漏洞](https://www.freebuf.com/articles/web/221415.html)
+[Haaukins：一款高度自動化和可訪問的安全教育虛擬化平台](https://www.freebuf.com/articles/terminal/223184.html)
+[ATT&CK框架：攻擊者最常用的TOP7攻擊技術及其檢測策略](https://www.freebuf.com/articles/network/223122.html)
