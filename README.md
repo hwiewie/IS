@@ -493,3 +493,7 @@ CVE-2019-0708
 [安全小遊戲：尋找漏洞](https://www.freebuf.com/articles/web/221415.html)
 [Haaukins：一款高度自動化和可訪問的安全教育虛擬化平台](https://www.freebuf.com/articles/terminal/223184.html)
 [ATT&CK框架：攻擊者最常用的TOP7攻擊技術及其檢測策略](https://www.freebuf.com/articles/network/223122.html)
+[一款“殭屍網絡挖礦” 攻擊分析](https://www.freebuf.com/articles/system/222642.html)
+[XSSFORK：新一代XSS自動掃描測試工具](https://www.freebuf.com/sectool/223208.html)
+[VulnHub靶機系列：Os-ByteSec](https://www.freebuf.com/articles/system/221949.html)
+[AuthCov：一種功能強大的開源Web應用程序授權爬行和掃描工具](https://www.freebuf.com/sectool/213683.html)
