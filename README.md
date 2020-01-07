@@ -501,3 +501,6 @@ CVE-2019-0708
 [代碼審計思路討論](https://www.freebuf.com/articles/web/222877.html)
 [企業安全建設之自動化代碼掃描](https://www.freebuf.com/articles/es/221198.html)
 [Docker容器安全性分析](https://www.freebuf.com/articles/system/221319.html)
+[警惕利用Linux預加載型惡意動態鏈接庫的後門](https://www.freebuf.com/column/162604.html)
+[手把手帶你利用SQLmap結合OOB技術實現音速盲注](https://www.freebuf.com/sectool/222967.html)
+[應急響應系列之Linux庫文件劫持技術分析](https://www.freebuf.com/articles/system/223311.html)
