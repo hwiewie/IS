@@ -504,3 +504,6 @@ CVE-2019-0708
 [警惕利用Linux預加載型惡意動態鏈接庫的後門](https://www.freebuf.com/column/162604.html)
 [手把手帶你利用SQLmap結合OOB技術實現音速盲注](https://www.freebuf.com/sectool/222967.html)
 [應急響應系列之Linux庫文件劫持技術分析](https://www.freebuf.com/articles/system/223311.html)
+[滲透技巧之Powershell實戰技巧](https://www.freebuf.com/articles/web/220046.html)
+[CSRF攻擊防禦原理](https://www.freebuf.com/articles/web/224446.html)
+[機器學習之惡意流量檢測的特徵工程](https://www.freebuf.com/articles/web/223481.html)
