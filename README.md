@@ -507,3 +507,5 @@ CVE-2019-0708
 [滲透技巧之Powershell實戰技巧](https://www.freebuf.com/articles/web/220046.html)
 [CSRF攻擊防禦原理](https://www.freebuf.com/articles/web/224446.html)
 [機器學習之惡意流量檢測的特徵工程](https://www.freebuf.com/articles/web/223481.html)
+[Go語言代碼安全審計分享](https://www.freebuf.com/articles/web/224363.html)
+
