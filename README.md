@@ -4,6 +4,10 @@ Temp
 惡意知識庫
 https://owl.nchc.org.tw/
 
+https://drive.google.com/open?id=1hNKwzxx5QuPjn1wTKguwGLmgzVW9etsc
+https://drive.google.com/open?id=0B9qqqzOjzwW9UFUxY1Rlb0diS00
+https://drive.google.com/file/d/0B6cOjCkh6yRSeEc1a0hnaHU3aGM/view?usp=sharing
+
 TeamViewer Hack Could Be Used By Anyone
 https://thehackernews.com/2017/12/teamviewer-hacking-tool.html
 
