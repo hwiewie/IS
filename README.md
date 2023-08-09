@@ -512,4 +512,5 @@ CVE-2019-0708
 [CSRF攻擊防禦原理](https://www.freebuf.com/articles/web/224446.html)
 [機器學習之惡意流量檢測的特徵工程](https://www.freebuf.com/articles/web/223481.html)
 [Go語言代碼安全審計分享](https://www.freebuf.com/articles/web/224363.html)
-
+[Linux安全管理與行為監控](https://github.com/sqall01/LSMS)
+[報錯注入的原理分析](https://www.freebuf.com/articles/database/373029.html)
